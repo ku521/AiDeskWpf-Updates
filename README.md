@@ -1,12 +1,19 @@
 # AiDesk 桌面宠物 (WPF) — 公开发布仓库
 
-- 程序版本：2.0.2.6
+- 程序版本：**2.0.2.7**
 - 本仓库仅提供编译后的公开 exe，**不含源码**。
 - 运行环境：Windows 10 / 11，需先安装 **.NET 8 Desktop Runtime**。
 - 直接双击 `AiDeskWpf.exe` 即可启动；启动后会出现透明桌面宠物与系统托盘图标。
 
+## 直接下载
+
+- GitHub（exe）：https://github.com/ku521/AiDeskWpf-Updates/releases/download/v2.0.2.7/AiDeskWpf.exe
+- AtomGit（zip，解压后得到 exe）：https://raw.atomgit.com/Starxincheng/AiDeskWpf-Updates/archive/refs/heads/v2.0.2.7.zip
+
 ## 功能
+
 AI 聊天、工作台、番茄钟、便签、屏保、全局热键搜索、桌面宠物互动等。
 
 ## 更新
+
 新版本会更新到本仓库；应用内也有「关于 / 更新」入口。
